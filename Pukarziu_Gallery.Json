@@ -2,14 +2,14 @@
   "name": "pukarziu task gallery",
   "description": "https://github.com/pukarziu/Script",
   "task": [
-    "0 0 * * * https://raw.githubusercontent.com/58xinian/Surge/main/Script/jx_cfdtx.js, tag=财富岛兑换-58xinian, img-url=https://raw.githubusercontent.com/pukarziu/QuantumultXRule/main/JavaScript/Icon/JingXi.png, enabled=true",
-    "5 0 * * * https://raw.githubusercontent.com/58xinian/Surge/main/Script/huke.js, tag=虎课网-58xinian , img-url=https://raw.githubusercontent.com/pukarziu/QuantumultXRule/main/JavaScript/Icon/HuKe.png",
-    "0 10 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean_red_envelope_am.js, tag=Oclean早包-zZPiglet, img-url=https://raw.githubusercontent.com/pukarziu/QuantumultXRule/main/JavaScript/Icon/Oclean.png",
-    "5 10 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean.js, tag=Oclean签到-zZPiglet , img-url=https://raw.githubusercontent.com/pukarziu/QuantumultXRule/main/JavaScript/Icon/Oclean.png",
+    "0 0 * * * https://raw.githubusercontent.com/58xinian/Surge/main/Script/jx_cfdtx.js, tag=财富岛兑换-58xinian, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png, enabled=true",
+    "5 0 * * * https://raw.githubusercontent.com/58xinian/Surge/main/Script/huke.js, tag=虎课网-58xinian , img-url=https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Icon/HuKe.png",
+    "0 10 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean_red_envelope_am.js, tag=Oclean早包-zZPiglet, img-url=https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Icon/Oclean.png",
+    "5 10 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean.js, tag=Oclean签到-zZPiglet , img-url=https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Icon/Oclean.png",
     "5 19 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/xmSports.js, tag=小米步数-lxk , img-url=https://raw.githubusercontent.com/pukarziu/QuantumultXRule/main/JavaScript/Icon/Xiaomi_Sport.png",
-    "0 21 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean_red_envelope_pm.js, tag=Oclean晚包-zZPiglet , img-url=https://raw.githubusercontent.com/pukarziu/QuantumultXRule/main/JavaScript/Icon/Oclean.png",
-    "10 0,8,11,17 * * * https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/jddj_fruit.js, tag=京东到家_果园任务-passerby-b, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jddj.png",
-    "55 23 * * * https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Revision/JD_Logistics.js , tag=京东物流-id77 , img-url=https://raw.githubusercontent.com/pukarziu/QuantumultXRule/main/JavaScript/Icon/JD_Kuaidi.png,enabled=false",  
+    "0 21 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean_red_envelope_pm.js, tag=Oclean晚包-zZPiglet , img-url=https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Icon/Oclean.png",
+    "10 0,8,11,17 * * * https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Backup/jddj_fruit.js, tag=京东到家_果园任务-passerby-b, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jddj.png",
+    "55 23 * * * https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Revision/JD_Logistics.js , tag=京东物流-id77 , img-url=https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Icon/JD_Kuaidi.png,enabled=false",  
     "0 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/chavy.box.js , tag=切换会话-chavyleung , img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/box.png,enabled=false",  
   ]
 }
