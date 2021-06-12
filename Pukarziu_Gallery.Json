@@ -5,7 +5,7 @@
     "0 0 * * * https://raw.githubusercontent.com/58xinian/Surge/main/Script/jx_cfdtx.js, tag=财富岛兑换, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png, enabled=true",
     "5 0 * * * https://raw.githubusercontent.com/58xinian/Surge/main/Script/huke.js, tag=虎课网, img-url=https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Icon/HuKe.png",
     "5 19 * * * https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Backup/xmSports.js, tag=小米步数, img-url=https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Icon/Xiaomi_Sport.png",
-    "20 0,3,8,11,17 * * * https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_fruit.js, tag=到家果园_日常任务, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jddj.png",
+    "20 7,8,11,17 * * * https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_fruit.js, tag=到家果园_日常任务, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jddj.png",
     "*/5 * * * * https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_fruit_collectWater.js, tag=到家果园_水车水滴, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jddj.png",
     "10 0 * * * https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_bean.js, tag=京东到家_日常任务, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jddj.png",
     "15 0 * * * https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_plantBeans.js, tag=鲜豆庄园_日常任务, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jddj.png",
