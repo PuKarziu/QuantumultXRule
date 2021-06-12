@@ -8,7 +8,7 @@
     "5 10 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean.js, tag=Oclean签到-zZPiglet , img-url=https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Icon/Oclean.png",
     "5 19 * * * https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Backup/xmSports.js, tag=小米步数-lxk , img-url=https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Icon/Xiaomi_Sport.png",
     "0 21 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean_red_envelope_pm.js, tag=Oclean晚包-zZPiglet , img-url=https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Icon/Oclean.png",
-    "10 0,8,11,17 * * * https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Backup/jddj_fruit.js, tag=京东到家_果园任务-passerby-b, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jddj.png",
+    "0 7 * * * https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Backup/jddj_fruit.js, tag=京东到家_果园任务-passerby-b, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jddj.png",
     "55 23 * * * https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Revision/JD_Logistics.js , tag=京东物流-id77 , img-url=https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Icon/JD_Kuaidi.png,enabled=false",  
     "0 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/chavy.box.js , tag=切换会话-chavyleung , img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/box.png,enabled=false",  
   ]
