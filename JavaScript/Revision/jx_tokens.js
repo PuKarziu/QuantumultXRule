@@ -33,6 +33,9 @@
 
 const jxNcTokenKey1 = 'jxnc_token1';
 const jxNcTokenKey2 = 'jxnc_token2';
+const jxNcTokenKey2 = 'jxnc_token3';
+const jxNcTokenKey2 = 'jxnc_token4';
+const jxNcTokenKey2 = 'jxnc_token5';
 const jxTokens = 'jx_tokens';
 const ncTokenRegex = /^https\:\/\/wq\.jd\.com\/cubeactive\/farm\/dotask/;
 const gcTokenRegex = /^https\:\/\/m\.jingxi\.com\/dreamfactory\/generator\/CollectCurrentElectricity/;
