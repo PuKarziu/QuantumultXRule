@@ -33,16 +33,6 @@
 
 const jxNcTokenKey1 = 'jxnc_token1';
 const jxNcTokenKey2 = 'jxnc_token2';
-const jxNcTokenKey3 = 'jxnc_token3';
-const jxNcTokenKey4 = 'jxnc_token4';
-const jxNcTokenKey5 = 'jxnc_token5';
-const jxNcTokenKey6 = 'jxnc_token6';
-const jxNcTokenKey7 = 'jxnc_token7';
-const jxNcTokenKey8 = 'jxnc_token8';
-const jxNcTokenKey9 = 'jxnc_token9';
-const jxNcTokenKey10 = 'jxnc_token10';
-const jxNcTokenKey11 = 'jxnc_token11';
-const jxNcTokenKey12 = 'jxnc_token12';
 const jxTokens = 'jx_tokens';
 const ncTokenRegex = /^https\:\/\/wq\.jd\.com\/cubeactive\/farm\/dotask/;
 const gcTokenRegex = /^https\:\/\/m\.jingxi\.com\/dreamfactory\/generator\/CollectCurrentElectricity/;
