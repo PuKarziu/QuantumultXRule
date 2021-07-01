@@ -1,7 +1,6 @@
 # 微信 调用淘宝分享链接
 ^https?:\/\/weixin110\.qq\.com\/cgi-bin\/mmspamsupport-bin\/newredirectconfirmcgi url script-response-body https://raw.githubusercontent.com/lion-goose/QuantumultX/master/Js/weixinopentaobaourl.js
 
-# 去微信公众号 (By Choler)
-^https?:\/\/mp\.weixin\.qq\.com\/mp\/getappmsgad url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/Wechat.js
+
 
 hostname = weixin110.qq.com, mp.weixin.qq.com,
