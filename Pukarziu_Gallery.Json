@@ -1,6 +1,7 @@
 {
   "name": "pukarziu task gallery",
   "description": "https://github.com/pukarziu/Script",
+  "icon": "https://avatars.githubusercontent.com/u/85724275?s=400&u=fbd3277b311650690308a21f2ab651bf92e8bf65&v=4",
   "task": [
     "0 10 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean_red_envelope_am.js, tag=Oclean早包, img-url=https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Icon/Oclean.png",
     "5 10 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean.js, tag=Oclean签到, img-url=https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Icon/Oclean.png",
