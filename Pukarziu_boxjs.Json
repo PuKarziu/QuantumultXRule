@@ -1,0 +1,114 @@
+{
+  "id": "PuKarziu.app.sub",
+  "name": "PuKarziu-自用订阅",
+  "description": "PuKarziu-自用订阅",
+  "author": "@PuKarziu",
+  "icon": "https://avatars.githubusercontent.com/u/30079779?s=460&u=3bf6eabd9b82fb39721e193c62eadd343f54fe2d&v=4",
+  "repo": "https://github.com/pukarziu",
+  "apps": [
+ 
+   {
+      "id": "xmSports",
+      "name": "小米运动",
+      "keys": [
+        "xmSportsToken",
+        "xmMinStep",
+        "xmMaxStep"
+      ],
+      "settings": [
+        {
+          "id": "xmSportsToken",
+          "name": "小米运动Token",
+          "val": "",
+          "type": "text",
+          "desc": "小米运动登录时获取的token"
+        },
+        {
+          "id": "xmMinStep",
+          "name": "最小运动步数",
+          "val": "19000",
+          "type": "text",
+          "desc": "需要修改最小的运动步数的数字,例如:19000"
+        },
+        {
+          "id": "xmMaxStep",
+          "name": "最大运动步数",
+          "val": "25000",
+          "type": "text",
+          "desc": "需要修改最小的运动步数的数字,例如:25000"
+        }
+      ],
+      "author": "@lxk0301",
+      "repo": "https://gitee.com/lxk0301/jd_scripts/tree/master",
+      "script": "https://jdsharedresourcescdn.azureedge.net/jdresource/xmSports.js",
+      "icons": [
+        "https://raw.githubusercontent.com/58xinian/icon/master/xmyd_mini.png",
+        "https://raw.githubusercontent.com/58xinian/icon/master/xmyd.png"
+      ]
+    },
+
+    
+   {
+      "id": "zZ.Oclean",
+      "name": "欧可林",
+      "descs_html": [
+        "使用 app 请先按<a href=\"https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean.js\">脚本注释</a>进行配置，然后进入\"欧可林\"并点击\"活动\"，若弹出\"首次写入欧可林 Cookie 成功\"即可正常食用。",
+        "使用小程序请先按<a href=\"https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean_mini.js\">脚本注释</a>进行配置，然后进入微信小程序\"欧可林商城\"并点击\"每日任务\"，若弹出\"首次写入欧可林商城 Cookie 成功\"即可正常食用。",
+        "app 和小程序选择一个使用即可，两者获取的奖励一致。欧可林有早、晚积分红包脚本，请搭配使用，抢红包脚本基本均处于超时状态，故要么无通知要么通知超时，无影响。若抢红包脚本发出正常通知，请反馈通知及日志至 <a href=\"https://t.me/zZPiglet_bot\">@zZPiglet_bot</a>。"
+      ],
+      "keys": ["Oclean", "Oclean_mini"],
+      "settings": [
+        {
+          "id": "Oclean",
+          "name": "Shop-Member",
+          "val": "",
+          "type": "text",
+          "desc": "用户验证信息，由 app 注册绑定生成。"
+        },
+        {
+          "id": "Oclean_mini",
+          "name": "openId",
+          "val": "",
+          "type": "text",
+          "desc": "用户验证信息，由微信小程序生成。"
+        }
+      ],
+      "author": "@zZPiglet",
+      "repo": "https://github.com/zZPiglet/Task/tree/master/Oclean",
+      "scripts": [
+        {
+          "name": "欧可林 app",
+          "script": "https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean.js"
+        },
+        {
+          "name": "欧可林 app 早红包",
+          "script": "https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean_red_envelope_am.js"
+        },
+        {
+          "name": "欧可林 app 晚红包",
+          "script": "https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean_red_envelope_pm.js"
+        },
+        {
+          "name": "欧可林 小程序",
+          "script": "https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean_mini.js"
+        },
+        {
+          "name": "欧可林 小程序 早红包",
+          "script": "https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean_mini_red_envelope_am.js"
+        },
+        {
+          "name": "欧可林 小程序 晚红包",
+          "script": "https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean_mini_red_envelope_pm.js"
+        }
+      ],
+      "icons": [
+        "https://raw.githubusercontent.com/Orz-3/mini/master/Alpha/Oclean.png",
+        "https://raw.githubusercontent.com/Orz-3/mini/master/Color/Oclean.png"
+      ]
+    }
+
+
+
+
+    ]
+}
