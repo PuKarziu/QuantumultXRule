@@ -1,6 +1,0 @@
-# 微信 调用淘宝分享链接
-^https?:\/\/weixin110\.qq\.com\/cgi-bin\/mmspamsupport-bin\/newredirectconfirmcgi url script-response-body https://raw.githubusercontent.com/lion-goose/QuantumultX/master/Js/weixinopentaobaourl.js
-
-
-
-hostname = weixin110.qq.com, mp.weixin.qq.com,
