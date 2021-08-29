@@ -3,9 +3,12 @@
   "description": "https://github.com/pukarziu/Script",
   "icon": "https://avatars.githubusercontent.com/u/85724275?s=400&u=fbd3277b311650690308a21f2ab651bf92e8bf65&v=4",
   "task": [
-    "0 10 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean_red_envelope_am.js, tag=Oclean早包, img-url=https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Icon/Oclean.png",
-    "5 10 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean.js, tag=Oclean签到, img-url=https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Icon/Oclean.png",
-    "0 21 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean_red_envelope_pm.js, tag=Oclean晚包, img-url=https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Icon/Oclean.png",
+    "0 55 9 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean.js, tag=欧可林-APP签到, img-url=https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Icon/Oclean.png",
+    "5 55 9 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean_mini.js, tag=欧可林-小程序签到, img-url=https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Icon/Oclean.png",
+    "0 0 10 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean_red_envelope_am.js, tag=欧可林-APP早包, img-url=https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Icon/Oclean.png",
+    "5 0 10 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean_mini_red_envelope_am.js, tag=欧可林-小程序早包, img-url=https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Icon/Oclean.png",
+    "0 21 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean_red_envelope_pm.js, tag=欧可林-APP晚包, img-url=https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Icon/Oclean.png",
+    "5 21 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean__mini_red_envelope_pm.js, tag=欧可林-小程序晚包, img-url=https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Icon/Oclean.png",
     "0 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/chavy.box.js , tag=切换会话, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/box.png,enabled=false",  
   ]
 }
