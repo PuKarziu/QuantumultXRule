@@ -9,6 +9,7 @@
     "5 0 10 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean_mini_red_envelope_am.js, tag=欧可林-小程序早包, img-url=https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Icon/Oclean.png",
     "0 0 21 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean_red_envelope_pm.js, tag=欧可林-APP晚包, img-url=https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Icon/Oclean.png",
     "5 0 21 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Oclean/Oclean_mini_red_envelope_pm.js, tag=欧可林-小程序晚包, img-url=https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Icon/Oclean.png",
+    "0 0 20 * * * https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Backup/xmSports.js, tag=小米运动, img-url=https://raw.githubusercontent.com/PuKarziu/QuantumultXRule/main/JavaScript/Icon/Xiaomi_Sport.png",
     "0 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/chavy.box.js , tag=切换会话, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/box.png,enabled=false",  
   ]
 }
